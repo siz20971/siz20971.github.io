@@ -4,6 +4,8 @@ title: 멀티 모니터에 대한 유니티 클라이언트 모니터 이동
 categories: Development, Unity
 ---
 
+유니티에서 멀티 모니터간의 윈도우 이동 기능은 지원되지 않으므로, 새로 만듬.
+
 ```c#
 #if UNITY_STANDALONE_WIN || UNITY_EDITOR_WIN
 
