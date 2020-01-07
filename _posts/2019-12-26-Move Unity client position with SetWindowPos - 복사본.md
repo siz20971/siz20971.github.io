@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 유니티 클라이언트 윈도우의 위치 이동 시키기와 내가 만난 문제점
+title: 유니티 클라이언트 윈도우의 위치 이동 시키기와 내가 만난 문제점 (WIP)
 categories: Development, Unity
 ---
 
